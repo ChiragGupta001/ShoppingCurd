@@ -1,0 +1,31 @@
+[{
+    "id" : 1,
+    "name" : "Iphone 14",
+    "image": "./images/iphone14.jpg",
+    "price": "60,000"
+},
+{
+    "id" : 2,
+    "name" : "Hp Elitebook",
+    "image": "./images/hp-elitebook.jpg",
+    "price": "90,000"
+},
+{
+    "id" : 3,
+    "name" : "Realme Notebook",
+    "image": "./images/realmebook.webp",
+    "price": "47000"
+},
+{
+    "id" : 4,
+    "name" : "Mac M1",
+    "image": "./images/mac-M1.jpg",
+    "price": "124000"
+},
+{
+    "id" : 5,
+    "name" : "Mac M2",
+    "image": "./images/mac-M2.webp",
+    "price": "150000"
+}
+]
